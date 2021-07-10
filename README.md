@@ -14,3 +14,6 @@ And for conveinence I will show the outputs of the refactored code below. The re
 
 ## Summary
 
+### Advantages
+
+### Disadvantages
