@@ -14,6 +14,11 @@ And for conveinence I will show the outputs of the refactored code below. The re
 
 ## Summary
 
-### Advantages
+### Advantages of Refactoring code
+An obvious advantage of refactoring code is that when achieved-- it allows for code to be run much more efficiently. 
+It seems that the purpose of this assignment was to refactor the code so that it may be both run both easily understood/programmed but especially more quickly run in VBA.  The time advantage gained by refactoring in this example is negligable, but if we were to analyze 100 different stocks over the last 50 years-- that time might really add up. 
+### Disadvantages of Refactoring code
+The Disadvantage seems somewhat obvious as well. Refactoring code is time consuming and surely not always easy. In this exqample: is it worth it for you to spend a few hours to make a code run faster? Probably not.  
+Additionally, how can we know that our refactored code will be 'better' than the original--- how do we know we aren't wasting our time on this project? How will we know that the time spent to refactor will pay itself off?-- especially considering the results shown will be the same.. If it isn't broken, why fix it? 
 
-### Disadvantages
+These questions aren't easy to answer, and should be analyzed on a case by case basis.  In the example, the benefit gained by refactoring the script is negligable. However, other times it may be very advantageous.
